@@ -1,0 +1,3 @@
+﻿  zadanie3.cpp
+C:\Users\st310-04\Desktop\Полеев\3\zadanie3\zadanie3.cpp(49,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  zadanie3.vcxproj -> C:\Users\st310-04\Desktop\Полеев\3\zadanie3\x64\Debug\zadanie3.exe
